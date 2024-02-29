@@ -38,6 +38,7 @@ class Solution {
             }
             ans += 2*count*(n-count);
         }
+        
         return ans;
     }
 }
